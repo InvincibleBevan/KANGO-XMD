@@ -17,17 +17,17 @@
     },
     "BOT_NAME": {
       "description": "Enter your bot name here",
-      "value": "KANGO-XMD",
+      "value": "BEVAN SOCEITY",
       "required": false
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
-      "value": "",
+      "value": "254797827405",
       "required": true
     },
     "OWNER_NAME": {
       "description": "owner name",
-      "value": "",
+      "value": "BEVAN",
       "required": true
     },
     "STICKER_PACK_NAME": {
